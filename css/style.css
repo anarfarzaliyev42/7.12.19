@@ -28,26 +28,28 @@ h3{
     background-color: lightskyblue;
     color: white;
     text-align: center;
-    border-bottom-right-radius: 30%;
-    border-top-left-radius: 30%;
-    border-bottom-left-radius: 30%;
-    border-top-right-radius: 30%;
+    border-radius: 30px;
     padding:5px;
-    margin-left:50px; 
+    margin-left:38px; 
     margin-right:20px; 
+    margin-top: 45px;
     width: 70%;
 }
 #remember{
     opacity: .5;
     margin-left: 0px; 
+    margin-top: 20px;
     
 }
 #checkbox{
     float: left;
     padding-top: 5px;
     margin-left: 17px;
+   
 }
-
+#account{
+    text-align: center;
+}
 
 
 
