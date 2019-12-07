@@ -1,0 +1,21 @@
+ul>div{
+    display:inline-block;
+    width: 200px;
+    height: 200px;
+    
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+
+#firstli{
+    background-image: url('../asserts/images/ntFmJUZ8tw3ULD3tkBaAtf-320-80.jpg')
+   
+}
+#secondli{
+    background-image: url('../asserts/images/pexels-photo-417173.jpeg')
+}
+
+#thirdli{
+    background-image: url('../asserts/images/photo-1545161296-d9c2c241f2ad.jpg')
+}
